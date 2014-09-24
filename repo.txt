@@ -1,1 +1,2 @@
 <repo>https://github.com/LeagueSharp/LeagueSharpCommon</repo>
+<repo>https://github.com/gFederal/LeagueSharp</repo>
